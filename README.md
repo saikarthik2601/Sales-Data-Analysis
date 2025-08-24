@@ -87,8 +87,6 @@ Power BI Project 1 Requirements.pptx → Project requirement document
 
 (Add screenshots of your dashboard here for better presentation – you can export them from Power BI)
 
+## ✅ Conclusion
 
-
-✅ Conclusion
-
-This Power BI project provides actionable insights into sales and profit trends, helping businesses make informed decisions about product strategy, discount management, and regional focus.
+This Power BI project provides actionable insights into sales and profit trends, helping businesses make informed decisions about product strategy, discount management, and regional focus
