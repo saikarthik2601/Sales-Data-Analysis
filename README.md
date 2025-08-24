@@ -87,16 +87,23 @@ Power BI Project Requirements.pptx → <a href="https://github.com/saikarthik260
 ## 📸 Dashboard Preview
 
 ###  Top/Bottom 5 Products charts: 
+
 Identify best and worst-performing products based on Sales, Profit, and Quantity Sold.
 <img width="1920" height="892" alt="Req-1" src="https://github.com/user-attachments/assets/fd59961e-10f1-4188-9e89-121c66772e64" />
 
-### Time-series Analysis of sales and profits: Analyze sales patterns across daily, monthly, quarterly, and annual timelines.
+### Time-series Analysis of sales and profits: 
+
+Analyze sales patterns across daily, monthly, quarterly, and annual timelines.
 <img width="1920" height="895" alt="Req-2" src="https://github.com/user-attachments/assets/c0db7761-b8af-46d0-95ba-07b7cf8c52ae" /> 
 
-### Period Comparison – Compare Sales, Profit, and Quantity Sold between any two selected periods.
+### Period Comparison: 
+
+Compare Sales, Profit, and Quantity Sold between any two selected periods.
 <img width="1920" height="893" alt="Req-4" src="https://github.com/user-attachments/assets/9e75efac-5851-43fa-a83d-db17cd1150b7" />
 
-### Detailed Order Insights – View Sales, Profit, Discount, Net Sales, and other metrics for each order with filters such as Product, Date, Customer ID, and Promotion Category.
+### Detailed Order Insights: 
+
+View Sales, Profit, Discount, Net Sales, and other metrics for each order with filters such as Product, Date, Customer ID, and Promotion Category.
 <img width="1920" height="893" alt="Req-7" src="https://github.com/user-attachments/assets/ec9efd82-1885-4f8e-ac06-1dd197d4660e" />
 
 
