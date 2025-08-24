@@ -86,7 +86,8 @@ Power BI Project Requirements.pptx → <a href="https://github.com/saikarthik260
 
 ## 📸 Dashboard Preview
 
-###  Top/Bottom 5 Products charts: Identify best and worst-performing products based on Sales, Profit, and Quantity Sold.
+###  Top/Bottom 5 Products charts: 
+Identify best and worst-performing products based on Sales, Profit, and Quantity Sold.
 <img width="1920" height="892" alt="Req-1" src="https://github.com/user-attachments/assets/fd59961e-10f1-4188-9e89-121c66772e64" />
 
 ### Time-series Analysis of sales and profits: Analyze sales patterns across daily, monthly, quarterly, and annual timelines.
