@@ -36,6 +36,7 @@ Power Query – For cleaning, transforming, and preparing data
 DAX (Data Analysis Expressions) – For creating calculated measures and KPIs
 
 ## 📂 Dataset
+<a href="https://github.com/saikarthik2601/Sales-Data-Analysis/blob/main/Store%2BData.xlsx">Sales Dataset</a>
 
 The dataset (StoreData.xlsx) contains sales records including fields such as:
 
