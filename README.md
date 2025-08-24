@@ -90,7 +90,12 @@ Power BI Project Requirements.pptx → <a href="https://github.com/saikarthik260
 <img width="1920" height="892" alt="Req-1" src="https://github.com/user-attachments/assets/fd59961e-10f1-4188-9e89-121c66772e64" />
 
 ### Time-series Analysis of sales and profits:
-<img width="1920" height="895" alt="Req-2" src="https://github.com/user-attachments/assets/c0db7761-b8af-46d0-95ba-07b7cf8c52ae" />
+<img width="1920" height="895" alt="Req-2" src="https://github.com/user-attachments/assets/c0db7761-b8af-46d0-95ba-07b7cf8c52ae" /> 
+
+### Period Comparison – Compare Sales, Profit, and Quantity Sold between any two selected periods.
+<img width="1920" height="893" alt="Req-4" src="https://github.com/user-attachments/assets/9e75efac-5851-43fa-a83d-db17cd1150b7" />
+
+
 
 
 
