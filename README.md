@@ -77,15 +77,16 @@ Certain cities consistently outperform others in terms of sales.
 
 ## 📁 Project Files
 
-Project 1 - Sales Data Analysis.pbix → Power BI dashboard file
+Project 1 - Sales Data Analysis.pbix → <a href="https://github.com/saikarthik2601/Sales-Data-Analysis/blob/main/Project%201%20-%20Sales%20Data%20Analysis.pbix">Sales Visualization(Raw Data)</a>
 
-StoreData.xlsx → Raw dataset
+StoreData.xlsx → <a href="https://github.com/saikarthik2601/Sales-Data-Analysis/blob/main/Store%2BData.xlsx">Sales Dataset</a>
 
-Power BI Project 1 Requirements.pptx → Project requirement document
+Power BI Project Requirements.pptx → <a href="https://github.com/saikarthik2601/Sales-Data-Analysis/blob/main/Power%2BBI%2BProject%2B1%2BRequirements.pptx">Sales Analysis Requirements</a>
 
 ## 📸 Dashboard Preview
 
 (Add screenshots of your dashboard here for better presentation – you can export them from Power BI)
+
 
 ## ✅ Conclusion
 
