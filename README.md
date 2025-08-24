@@ -106,7 +106,9 @@ Compare Sales, Profit, and Quantity Sold between any two selected periods.
 View Sales, Profit, Discount, Net Sales, and other metrics for each order with filters such as Product, Date, Customer ID, and Promotion Category.
 <img width="1920" height="893" alt="Req-7" src="https://github.com/user-attachments/assets/ec9efd82-1885-4f8e-ac06-1dd197d4660e" />
 
+### Sales vs Profit Relationship, Discount Analysis Across Different categories, Regional Sales Performance & Total Orders:
 
+<img width="1920" height="891" alt="Req-3,5,6,8" src="https://github.com/user-attachments/assets/fe4bd98a-8339-4d41-b95f-f514ae2952fe" />
 
 
 ## ✅ Conclusion
