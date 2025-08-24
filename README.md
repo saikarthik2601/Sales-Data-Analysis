@@ -86,8 +86,10 @@ Power BI Project Requirements.pptx → <a href="https://github.com/saikarthik260
 
 ## 📸 Dashboard Preview
 
-(Add screenshots of your dashboard here for better presentation – you can export them from Power BI)
+###  Top/Bottom 5 Products charts:
 <img width="1920" height="892" alt="Req-1" src="https://github.com/user-attachments/assets/fd59961e-10f1-4188-9e89-121c66772e64" />
+
+### Time-series Analysis of sales and profits:
 <img width="1920" height="895" alt="Req-2" src="https://github.com/user-attachments/assets/c0db7761-b8af-46d0-95ba-07b7cf8c52ae" />
 
 
