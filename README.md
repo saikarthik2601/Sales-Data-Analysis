@@ -9,21 +9,21 @@ The project covers essential business KPIs, trend analysis, and comparative insi
 
 Based on the given requirements, the project answers the following key business questions:
 
-Top/Bottom 5 Products – Identify best and worst-performing products based on Sales, Profit, and Quantity Sold.
+1. Top/Bottom 5 Products – Identify best and worst-performing products based on Sales, Profit, and Quantity Sold.
 
-Sales Trends Over Time – Analyze sales patterns across daily, monthly, quarterly, and annual timelines.
+2. Sales Trends Over Time – Analyze sales patterns across daily, monthly, quarterly, and annual timelines.
 
-Sales vs Profit Relationship – Understand the correlation between sales revenue and profitability.
+3. Sales vs Profit Relationship – Understand the correlation between sales revenue and profitability.
 
-Period Comparison – Compare Sales, Profit, and Quantity Sold between any two selected periods.
+4. Period Comparison – Compare Sales, Profit, and Quantity Sold between any two selected periods.
 
-Discount Analysis – Find the average discount offered across different discount categories.
+5. Discount Analysis – Find the average discount offered across different discount categories.
 
-Total Orders – Track the total number of orders placed during the period.
+6. Total Orders – Track the total number of orders placed during the period.
 
-Detailed Order Insights – View Sales, Profit, Discount, Net Sales, and other metrics for each order with filters such as Product, Date, Customer ID, and Promotion Category.
+7. Detailed Order Insights – View Sales, Profit, Discount, Net Sales, and other metrics for each order with filters such as Product, Date, Customer ID, and Promotion Category.
 
-Regional Sales Performance – Analyze Sales by City to identify high-performing and low-performing regions.
+8. Regional Sales Performance – Analyze Sales by City to identify high-performing and low-performing regions.
 
 ## 🛠️ Tools & Technologies
 
